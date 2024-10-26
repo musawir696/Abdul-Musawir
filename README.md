@@ -1,6 +1,6 @@
 <!-- Add a black-themed animated banner at the top -->
 <p align="center">
-  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.pinterest.com/pin/geek-programmer-black-background-geek-programmer-black-background-1080p-wallpaper-hdwallpaper-desktop--532058143490865565/)" alt="Black Animated Background" width="100%">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Black Animated Background" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Musawir</h1>
