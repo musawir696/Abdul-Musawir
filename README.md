@@ -1,3 +1,8 @@
+<!-- Add a black-themed animated banner at the top -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Black Animated Background" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdul Musawir</h1>
 <h3 align="center">A passionate Flutter and frontend developer from Pakistan</h3>
 
