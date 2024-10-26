@@ -1,6 +1,6 @@
 <!-- Add a black-themed animated banner at the top -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Black Animated Background" width="100%">
+  <img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://wallpapercave.com/wp/wp8778363.jpg)" alt="Black Animated Background" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Musawir</h1>
