@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abdulmusawir3545](https://medium.com/@abdulmusawir3545)
 
-- 📄 Know about my experiences [Click here]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1aeREJu8rbZz4_mQdH04fqyRK7OfKOkX0/view?usp=drive_link)](https://drive.google.com/file/d/1o68g7V7mhhXMQVzte0NdnTYLVY9D-P9I/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1o68g7V7mhhXMQVzte0NdnTYLVY9D-P9I/view?usp=sharing)
 
 - **Flutter Resume**: [Click here](https://drive.google.com/drive/u/0/my-drive)
 
