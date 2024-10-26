@@ -1,6 +1,6 @@
-<!-- Add a black-themed banner at the top -->
+<!-- Add a banner image at the top -->
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp8778363.jpg" alt="Black Animated Background" width="100%">
+  <img src="https://plus.unsplash.com/premium_photo-1663091633166-20ef12aa7b4e?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGFyayUyMGNvZGV8ZW58MHx8MHx8fDA%3D" alt="Dark Code Background" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Musawir</h1>
